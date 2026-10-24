@@ -16,7 +16,7 @@
 </p>
 
 <!-- Add a screenshot of the Overview page here: ![coreBoxer](assets/screenshot.png) -->
-
+   <p align="center"><img src="assets/screenshot.png" width="900" alt="coreBoxer"></p>
 coreBoxer plays up to ten WoW 3.3.5a clients from one keyboard and mouse. It broadcasts your keys and clicks to the
 other clients **in the background**, switches the master with F1–F5, logs the whole team in for you, and writes a
 small in-game addon (updated automatically) for follow, assist, run-in, mounts and more.
@@ -160,6 +160,7 @@ Groups: roles (`tanks`, `healers`, `melee`, `ranged`, `casters`, `dps`), your ow
 (no passwords) and paste it into an issue.
 
 **Updating?** Download the new exe and replace the old one. Settings stay.
+
 
 ## Disclaimer
 
